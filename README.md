@@ -6,10 +6,10 @@ This repository contains answers to the Data Science Intern Challenge.
 
 The first document contains the dataset 
 The second document contains the answers in a notebook format 
-The third document contains the answwes in pdf format.
+The third document contains the answers in pdf format.
 
 
-The answers are split in part 1 and 2
+The answers are split into part 1 and 2
 For the first part, the question is 
 Question 1: Given some sample data, write a program to answer the following: click here to access the required data set
 
